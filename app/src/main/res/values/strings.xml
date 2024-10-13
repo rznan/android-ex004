@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">app</string>
+    <string name="button">verificar</string>
+    <string name="main_title">Compensa!?</string>
+    <string name="gasoline_label">Gasolina</string>
+    <string name="alcohol_label">Álcool</string>
+    <string name="author_data">Renan Santos Carvalho\n1110482313034</string>
+</resources>
